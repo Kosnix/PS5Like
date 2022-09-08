@@ -4,3 +4,9 @@ Packages:
     RequiredApiVersion: 2.1.0
     ReleaseDate: 2022-08-30
     PackageUrl: https://github.com/Kosnix/PS5Like/releases/download/1.5.5/PS5Like.1.5.5.pthm
+  - Version: 1.6.0
+    RequiredApiVersion: 2.1.0
+    ReleaseDate: 2022-09-08
+    PackageUrl: https://github.com/Kosnix/PS5Like/releases/download/1.6.0/PS5Like.1.6.0.pthm
+    Changelog:
+      - New menu !
