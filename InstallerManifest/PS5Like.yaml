@@ -10,3 +10,9 @@ Packages:
     PackageUrl: https://github.com/Kosnix/PS5Like/releases/download/1.6.0/PS5Like.1.6.0.pthm
     Changelog:
       - New menu !
+  - Version: 1.6.1
+    RequiredApiVersion: 2.1.0
+    ReleaseDate: 2022-09-12
+    PackageUrl: https://github.com/Kosnix/PS5Like/releases/download/1.6.1/PS5Like.1.6.1.pthm
+    Changelog:
+      - New top filter
