@@ -23,3 +23,11 @@ Packages:
     Changelog:
       - Game name centered differently to avoid overflows
       - Another slight change
+  - Version: 1.7.0
+    RequiredApiVersion: 2.1.0
+    ReleaseDate: 2022-09-19
+    PackageUrl: https://github.com/Kosnix/PS5Like/releases/download/1.7.0/PS5Like.1.7.0.pthm
+    Changelog:
+      - The theme is now animated for less rigid navigation
+      - Added description in game details
+      - Various fixes
