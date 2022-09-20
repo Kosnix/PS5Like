@@ -31,7 +31,7 @@ Packages:
       - The theme is now animated for less rigid navigation
       - Added description in game details
       - Various fixes
-   - Version: 1.7.1
+  - Version: 1.7.1
     RequiredApiVersion: 2.1.0
     ReleaseDate: 2022-09-20
     PackageUrl: https://github.com/Kosnix/PS5Like/releases/download/1.7.1/PS5Like.1.7.1.pthm
