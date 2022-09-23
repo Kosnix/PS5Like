@@ -50,3 +50,9 @@ Packages:
     PackageUrl: https://github.com/Kosnix/PS5Like/releases/download/1.7.3/PS5Like.1.7.3.pthm
     Changelog:
       - Fixed left shadow that could show the edge of the background image
+  - Version: 1.7.4
+    RequiredApiVersion: 2.3.0
+    ReleaseDate: 2022-09-23
+    PackageUrl: https://github.com/Kosnix/PS5Like/releases/download/1.7.4/PS5Like.1.7.4.pthm
+    Changelog:
+      - fixed a bug that prevented trailers from appearing if one had already been seen until the end
