@@ -56,3 +56,9 @@ Packages:
     PackageUrl: https://github.com/Kosnix/PS5Like/releases/download/1.7.4/PS5Like.1.7.4.pthm
     Changelog:
       - fixed a bug that prevented trailers from appearing if one had already been seen until the end
+ - Version: 1.7.5
+    RequiredApiVersion: 2.3.0
+    ReleaseDate: 2022-09-28
+    PackageUrl: https://github.com/Kosnix/PS5Like/releases/download/1.7.5/PS5Like.1.7.5.pthm
+    Changelog:
+      - The filter menu no longer appears black
