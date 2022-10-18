@@ -81,7 +81,7 @@ Packages:
     Changelog:
       - Since the last update didnt have unanimous support, I decided to use the original style of from the game detail.
       - I finally managed to animate the logos by inspecting the code for Ryan Guest s new hero theme, kudos to him, he is awesome
-   - Version: 1.8.2
+  - Version: 1.8.2
     RequiredApiVersion: 2.3.0
     ReleaseDate: 2022-10-18
     PackageUrl: https://github.com/Kosnix/PS5Like/releases/download/1.8.2/PS5Like.1.8.2.pthm
