@@ -87,3 +87,12 @@ Packages:
     PackageUrl: https://github.com/Kosnix/PS5Like/releases/download/1.8.2/PS5Like.1.8.2.pthm
     Changelog:
       - LB and RB buttons are now the official buttons
+  - Version: 1.9.0
+    RequiredApiVersion: 2.3.0
+    ReleaseDate: 2022-10-28
+    PackageUrl: https://github.com/Kosnix/PS5Like/releases/download/1.9.0/PS5Like.1.9.0.pthm
+    Changelog:
+      - Support for steam vertical covers (set columns to 8 for square covers)
+      - New icons for filters
+      - Support for extrametadata logos
+      - educed zoom when selecting games
