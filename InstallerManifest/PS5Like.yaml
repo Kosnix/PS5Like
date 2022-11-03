@@ -96,3 +96,10 @@ Packages:
       - New icons for filters
       - Support for extrametadata logos
       - reduced zoom when selecting games
+  - Version: 2.0.0
+    RequiredApiVersion: 2.3.0
+    ReleaseDate: 2022-11-03
+    PackageUrl: https://github.com/Kosnix/PS5Like/releases/download/2.0.0/PS5Like.2.0.0.pthm
+    Changelog:
+      - Big update
+      - The theme is now made for SteamGridDB images (Steam format of covers and backgrounds)
