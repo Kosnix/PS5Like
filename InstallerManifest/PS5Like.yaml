@@ -103,3 +103,9 @@ Packages:
     Changelog:
       - Big update
       - The theme is now made for SteamGridDB images (Steam format of covers and backgrounds)
+  - Version: 2.0.1
+    RequiredApiVersion: 2.3.0
+    ReleaseDate: 2022-11-05
+    PackageUrl: https://github.com/Kosnix/PS5Like/releases/download/2.0.1/PS5Like.2.0.1.pthm
+    Changelog:
+      - -fixed a bug with filter icons
